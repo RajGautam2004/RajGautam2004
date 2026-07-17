@@ -1,162 +1,89 @@
 
-# <h1 align="center">🚀 Raj Gautam</h1>
+# <h1 align="center">Raj Gautam</h1>
 
-<div align="center">
+<h3 align="center">Software Engineer • Agentic AI Engineer • Full Stack Developer • AI/ML Enthusiast • Competitive Programmer</h3>
 
-### Software Engineer • Agentic AI Engineer • Full Stack Developer • AI/ML Enthusiast • Competitive Programmer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajGautam2004&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Engineer;Full+Stack+Developer;LLM+%7C+RAG+%7C+n8n+Builder;Machine+Learning+%7C+Deep+Learning;System+Design+%7C+LLD+%7C+Competitive+Programming"/>
-
-![](https://komarev.com/ghpvc/?username=RajGautam2004&style=for-the-badge)
-
-</div>
+<p align="center">
+  <a href="https://github.com/RajGautam2004"><img src="https://img.shields.io/badge/GitHub-RajGautam2004-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/raj-gautam-b3128528a/"><img src="https://img.shields.io/badge/LinkedIn-Raj%20Gautam-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:rajgautam87100@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-```cpp
-class RajGautam {
-public:
-    string role = "Software Engineer";
-    string university = "IIITDM Kurnool";
-    string degree = "B.Tech AI & Data Science";
+- 🎓 B.Tech in Artificial Intelligence & Data Science, IIITDM Kurnool (2023–2027)
+- 💼 Agentic AI Intern @ Rusborn OPC Pvt. Ltd.
+- 🤖 Building AI Agents, LLM, RAG, FastAPI and Full-Stack Applications
+- 🌱 Currently exploring Multi-Agent Systems, MCP, Vector Databases and AI Automation
+- 🎯 Goal: Software Engineer / AI Engineer at a top product company
 
-    vector<string> ai = {
-        "LLMs","RAG","LangChain","Prompt Engineering",
-        "FastAPI","n8n","Vector Databases",
-        "Machine Learning","Deep Learning"
-    };
-
-    vector<string> backend = {
-        "Node.js","Express","FastAPI",
-        "REST APIs","SQL","MongoDB"
-    };
-
-    vector<string> system_design = {
-        "LLD","HLD","Distributed Systems",
-        "Caching","Scalable APIs"
-    };
-};
-```
+---
 
 # 💼 Experience
 
 ## Agentic AI Intern — Rusborn OPC Pvt. Ltd.
-- AI Lead Generation Agents
-- Semantic RAG
-- FastAPI
-- n8n Automation
-- LLM Workflows
-- AI Employee Training System
+- Built AI Lead Generation Agents using LLMs, FastAPI, Semantic RAG, n8n & Apify.
+- Developed AI Employee Training System using vector databases and RAG.
+- Designed REST APIs and enterprise AI workflows.
 
 ## Python Developer Intern — Zaalima Development
-- Python Automation
-- Pandas
-- NumPy
-- Scikit-Learn
-- ETL Pipelines
+- Built Python automation tools and ETL pipelines.
+- Worked with NumPy, Pandas and Scikit-Learn.
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Lead Generation Agent | LLM + RAG + n8n + Apify + FastAPI |
-| 🩺 Swasth AI | AI Healthcare Assistant |
-| 📄 CT-200 Intelligent QA API | OCR + Versioning + LLM QA |
-| 💰 MoneyMind AI | AI Finance Assistant |
-| 👨‍💼 AI Screener | Resume Screening |
-| 💼 Job Portal | MERN Stack |
-| 🌐 Portfolio | React + Vercel |
+| Project | Tech |
+|---------|------|
+| AI Lead Generation Agent | React, FastAPI, n8n, Apify, PostgreSQL, LLM |
+| Swasth AI Healthcare Assistant | React, Node.js, MongoDB, RAG |
+| CT-200 Intelligent Document QA API | FastAPI, OCR, SQLAlchemy, SQLite, MongoDB |
+| AI Screener | AI Resume Screening |
+| MoneyMind AI | AI Finance Assistant |
+| Distributed In-Memory Cache | C++, System Design |
+| Job Portal | MERN Stack |
+| Portfolio | React + Vercel |
+
+Portfolio: https://portfolio-rust-zeta-33.vercel.app/
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## Languages
-Python • C++ • Java • JavaScript • HTML • CSS
+**Languages:** C, C++, Python, Java, JavaScript, HTML, CSS
 
-## Frontend
-React • Next.js • Tailwind CSS
+**Frontend:** React, Next.js, Tailwind CSS
 
-## Backend
-FastAPI • Node.js • Express • REST APIs
+**Backend:** Node.js, Express.js, FastAPI
 
-## Databases
-MongoDB • PostgreSQL • MySQL • SQLite
+**Databases:** MongoDB, MySQL, PostgreSQL, SQLite
 
-## AI / ML
+**AI:** LLMs, RAG, LangChain, FAISS, Vector DBs, Prompt Engineering, n8n, Apify
 
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- LangChain
-- Prompt Engineering
-- Vector Databases (FAISS / Chroma)
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- HuggingFace
-- n8n AI Automation
-- AI Agents
-- Semantic Search
-
-## System Design
-
-- High Level Design (HLD)
-- Low Level Design (LLD)
-- Distributed Systems
-- Microservices
-- Redis
-- API Design
-- Scalability
-- Caching
-- Load Balancing
+**Tools:** Git, GitHub, Linux, Azure, REST APIs
 
 ---
 
 # 🏆 Achievements
 
-- ⭐ CodeChef 4★ (1880+)
-- ⭐ LeetCode 1720+
-- ⭐ Codeforces Pupil (1200+)
-- ⭐ Solved 450+ DSA Problems
-- ⭐ Google Summer of Code 2025 Initial Coding Round Qualified
-- ⭐ Atomberg Hackathon Semi Finalist
-- ⭐ GATE DA Qualified
-- ⭐ Oracle AI Foundations
-- ⭐ Microsoft Azure AI
-- ⭐ Goldman Sachs Job Simulation
+- ⭐ CodeChef **4★ (1880+)**
+- ⭐ LeetCode **1720+ Rating**
+- ⭐ Codeforces **Pupil (1200+)**
+- ⭐ Solved **450+ DSA Problems**
+- ⭐ Qualified **GATE DA**
+- ⭐ Google Summer of Code 2025 — Initial Coding Round Qualified
+- ⭐ Atomberg Hackathon — Semi Finalist
+- ⭐ Oracle AI Foundations Certification
+- ⭐ Microsoft Azure AI Certification
+- ⭐ Goldman Sachs Software Engineering Job Simulation
 - ⭐ IIT Bombay Python Certification
-
----
-
-# 📊 GitHub Analytics
-
-Replace `RajGautam2004` with your username where needed.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RajGautam2004&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=RajGautam2004&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajGautam2004&layout=compact&theme=tokyonight)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajGautam2004&theme=github-dark)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RajGautam2004&theme=tokyonight)
-
----
-
-# 🐍 Contribution Snake
-
-Enable with GitHub Actions:
-
-```yaml
-uses: Platane/snk@v3
-```
 
 ---
 
@@ -168,20 +95,32 @@ uses: Platane/snk@v3
 
 ---
 
+# 📈 GitHub Stats
+
+```text
+Use:
+https://github-readme-stats.vercel.app/api?username=RajGautam2004&show_icons=true&theme=tokyonight
+
+https://streak-stats.demolab.com?user=RajGautam2004&theme=tokyonight
+
+https://github-readme-activity-graph.vercel.app/graph?username=RajGautam2004&theme=github-dark
+```
+
+---
+
 # 📫 Contact
 
-- Email: rajgautam87100@gmail.com
-- LinkedIn: https://www.linkedin.com/in/raj-gautam-b3128528a/
-- GitHub: https://github.com/RajGautam2004
+- 📧 rajgautam87100@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/raj-gautam-b3128528a/
+- 💻 GitHub: https://github.com/RajGautam2004
 
 ---
 
 # 🎯 Current Focus
 
-- Agentic AI
-- LLM Applications
-- RAG Systems
-- AI Calling Agents
+- Agentic AI Systems
+- AI Voice Agents
+- LLM + RAG
 - Distributed Systems
 - System Design
 - Competitive Programming
@@ -190,325 +129,10 @@ uses: Platane/snk@v3
 
 # ⚡ Fun Fact
 
-> "I enjoy turning complex AI ideas into production-ready applications."
+> "I love solving algorithmic problems as much as building AI products."
 
+---
 
-## 📌 Developer Note 1
-- Building scalable AI systems.
-- Learning every day.
+# ❤️ Thanks for visiting!
 
-## 📌 Developer Note 2
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 3
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 4
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 5
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 6
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 7
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 8
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 9
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 10
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 11
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 12
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 13
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 14
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 15
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 16
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 17
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 18
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 19
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 20
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 21
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 22
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 23
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 24
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 25
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 26
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 27
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 28
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 29
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 30
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 31
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 32
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 33
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 34
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 35
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 36
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 37
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 38
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 39
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 40
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 41
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 42
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 43
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 44
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 45
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 46
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 47
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 48
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 49
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 50
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 51
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 52
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 53
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 54
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 55
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 56
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 57
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 58
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 59
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 60
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 61
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 62
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 63
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 64
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 65
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 66
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 67
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 68
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 69
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 70
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 71
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 72
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 73
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 74
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 75
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 76
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 77
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 78
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 79
-- Building scalable AI systems.
-- Learning every day.
-
-## 📌 Developer Note 80
-- Building scalable AI systems.
-- Learning every day.
+If you like my work, consider ⭐ starring my repositories.
