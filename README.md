@@ -263,6 +263,7 @@ I don't always fix bugs, but when I do, I create two more. 🐛
 - 💼 **LinkedIn**: https://www.linkedin.com/in/raj-gautam-b3128528a/
 - 💻 **GitHub**: https://github.com/RajGautam2004
 - 🎯 **Portfolio**: https://portfolio-rust-zeta-33.vercel.app/
+-  📝 Resume      : https://drive.google.com/file/d/1Uz7ZVPpuj32dzKYpPx87Eobi7XAtzpWk/view?usp=sharing
 
 ---
 
