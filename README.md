@@ -199,7 +199,7 @@ const raj = {
 
 </div>
 
-- ⭐ **Google Summer of Code 2025** — Qualified Initial Coding Round
+- ⭐ **Google The Big Code 2026 ** — Qualified Coding Round
 - ⭐ **Atomberg Hackathon** — Semi Finalist
 - ⭐ **Oracle AI Foundations Certification** — AI & Neural Networks
 - ⭐ **Microsoft Azure AI Certification** — Cloud-based AI/ML Solutions
