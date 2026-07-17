@@ -41,7 +41,7 @@
 ```javascript
 const raj = {
     name: "Raj Gautam",
-    role: "Agentic AI Engineer",
+    role: "Software Engineer",
     location: "India",
     education: "B.Tech in AI & Data Science, IIITDM Kurnool (2023-2027)",
 
