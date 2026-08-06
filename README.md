@@ -220,7 +220,7 @@ const raj = {
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B9BD5?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   </a>
 
-  <a href="https://codeforces.com/profile/rajgautam87100">
+  <a href="https://codeforces.com/profile/Raj_raj">
     <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
   </a>
 
