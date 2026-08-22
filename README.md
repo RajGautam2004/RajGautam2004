@@ -207,6 +207,7 @@ const raj = {
 - ⭐ **Microsoft Azure AI Certification** — Cloud-based AI/ML Solutions
 - ⭐ **Goldman Sachs Software Engineering Job Simulation**
 - ⭐ **IIT Bombay Python Certification** — Advanced Python & Data Processing
+- ⭐ **Led 12 volunteers as NSS Village Tour Coordinator, running a community outreach program for 100+ residents
 
 ---
 
