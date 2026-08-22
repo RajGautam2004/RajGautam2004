@@ -27,13 +27,14 @@
 
 ## 🧠 What I'm building
 
+## 🧠 What I'm building
+
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| 🧑‍💼 TalentLoop – Agentic Hiring Assistant | React · Node.js · FastAPI · MongoDB · Gemini · RAG | A full-stack AI hiring platform utilizing FastAPI and React (Vite) for resume parsing, explainable candidate scoring, personalized outreach, and approval-gated recruitment workflows. Integrated agentic pipelines deliver transparent hiring decisions with deterministic rubric scoring and human-in-the-loop validation. LIVE: https://talentloop-rouge.vercel.app/login 
-|
-| 🤖 **AI Lead Generation Agent** | React.js · FastAPI · PostgreSQL · n8n · Apify · LLMs | A full-stack AI-powered lead generation platform leveraging LLMs, Semantic RAG, and n8n to automate lead discovery, qualification, email generation, and intelligent outreach workflows. Integrated Apify, Google Maps, Gmail OAuth, and Vapi AI Calling Agent reducing manual prospecting effort by 70%. LIVE --> https://ai-lead-generation-mvp.vercel.app/ |
-| 💼 **AI Resume Screener** | Node.js · Express · FastAPI · BERT · Gemini 2.5 Flash | A high-performance recruitment backend that semantically matches resumes to roles using BERT embeddings and cosine similarity, runs Gemini-powered AI interviews with auto-generated assessment reports, hardened with IP rate-limiting for 99% uptime. CODE -->https://github.com/RajGautam2004/AI-Resume-Interview |
-| 🌐 **Portfolio** | React · Tailwind CSS · JavaScript | Personal portfolio showcasing projects, skills, and achievements. LIVE --> https://portfolio-rust-zeta-33.vercel.app/ |
+| 🧑‍💼 **TalentLoop – Agentic Hiring Assistant** | React · Node.js · FastAPI · MongoDB · Gemini · RAG | A full-stack AI hiring platform utilizing FastAPI and React (Vite) for resume parsing, explainable candidate scoring, personalized outreach, and approval-gated recruitment workflows. Integrated agentic pipelines deliver transparent hiring decisions with deterministic rubric scoring and human-in-the-loop validation. **LIVE:** https://talentloop-rouge.vercel.app/login |
+| 🤖 **AI Lead Generation Agent** | React.js · FastAPI · PostgreSQL · n8n · Apify · LLMs | A full-stack AI-powered lead generation platform leveraging LLMs, Semantic RAG, and n8n to automate lead discovery, qualification, email generation, and intelligent outreach workflows. Integrated Apify, Google Maps, Gmail OAuth, and Vapi AI Calling Agent, reducing manual prospecting effort by 70%. **LIVE:** https://ai-lead-generation-mvp.vercel.app/ |
+| 💼 **AI Resume Screener** | Node.js · Express · FastAPI · BERT · Gemini 2.5 Flash | A high-performance recruitment platform that semantically matches resumes to roles using BERT embeddings and cosine similarity, conducts Gemini-powered AI interviews, and generates automated assessment reports with IP rate-limiting for reliable API performance. **CODE:** https://github.com/RajGautam2004/AI-Resume-Interview |
+| 🌐 **Portfolio** | React · Tailwind CSS · JavaScript | Personal portfolio website showcasing projects, technical skills, achievements, and experience through a responsive modern interface. **LIVE:** https://portfolio-rust-zeta-33.vercel.app/ |
 
 ---
 
